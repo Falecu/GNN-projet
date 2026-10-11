@@ -10,7 +10,7 @@ numpy
 matplotlib
 jupyter
 
-créer un environnement python à l'aide de la commande "python -m venv .venv" puis l'activé avec "source .venv/bin/activate" afin de pouvoir lancer le code.
+créer un environnement python à l'aide de la commande "python -m venv .venv" puis l'activer avec "source .venv/bin/activate" afin de pouvoir lancer le code.
 
 placer le fichier "airportsAndCoordAndPop.graphml" au même endroit que projet.ipynb puis executer chaque celulles (la 5ème cellule )
 
